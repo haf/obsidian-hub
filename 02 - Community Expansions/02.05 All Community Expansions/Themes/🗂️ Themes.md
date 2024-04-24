@@ -191,6 +191,7 @@ publish: true
 -  [[02 - Community Expansions/02.05 All Community Expansions/Themes/Origin|Origin]]
 -  [[02 - Community Expansions/02.05 All Community Expansions/Themes/Palatinate|Palatinate]]
 -  [[02 - Community Expansions/02.05 All Community Expansions/Themes/Panic Mode|Panic Mode]]
+-  [[02 - Community Expansions/02.05 All Community Expansions/Themes/Penumbra|Penumbra]]
 -  [[02 - Community Expansions/02.05 All Community Expansions/Themes/Perso|Perso]]
 -  [[02 - Community Expansions/02.05 All Community Expansions/Themes/Phoenix|Phoenix]]
 -  [[02 - Community Expansions/02.05 All Community Expansions/Themes/Pine Forest Berry|Pine Forest Berry]]
